@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "577653844929",
+    "firebase_url": "https://cloudassignmnet-b524b.firebaseio.com",
+    "project_id": "cloudassignmnet-b524b",
+    "storage_bucket": "cloudassignmnet-b524b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577653844929:android:1441dfcd4d2a7ea1",
+        "android_client_info": {
+          "package_name": "com.example.cloudassignmnet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577653844929-q9qkcibt7vj9uvg4ji84utg1svgtigcu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cloudassignmnet",
+            "certificate_hash": "f9b130baa225f19930e006a49912eab9b07bdb8e"
+          }
+        },
+        {
+          "client_id": "577653844929-s7htcsvieaaeb8orua1r4blo3n8hehv1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqdRNq90NiuQYcatwcuz5lsZymEh5zeLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "577653844929-s7htcsvieaaeb8orua1r4blo3n8hehv1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
