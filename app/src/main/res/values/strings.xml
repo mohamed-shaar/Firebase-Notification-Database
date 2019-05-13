@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">CloudAssignmnet</string>
+    <string name="firebase_stuff">Firebase Stuff</string>
 </resources>
