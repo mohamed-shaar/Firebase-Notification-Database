@@ -8,7 +8,6 @@ import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.messaging.FirebaseMessagingService;
 import com.google.firebase.messaging.RemoteMessage;
 import com.google.firebase.storage.FirebaseStorage;
-import com.google.firebase.storage.StorageReference;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
@@ -18,7 +17,6 @@ public class MyFirebaseMessagingService extends FirebaseMessagingService {
 
     DatabaseReference database;
     FirebaseStorage storage;
-    StorageReference reference;
 
     @Override
     public void onMessageReceived(RemoteMessage remoteMessage) {
